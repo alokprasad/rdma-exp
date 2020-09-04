@@ -1,6 +1,5 @@
 .PHONY: clean
 
-CFLAGS  := -Wall -Werror -g
 LD      := gcc
 LDFLAGS := ${LDFLAGS} -libverbs
 
