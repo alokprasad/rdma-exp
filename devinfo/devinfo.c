@@ -45,7 +45,6 @@
 #include <byteswap.h>
 
 #include <infiniband/verbs.h>
-#include <infiniband/driver.h>
 #include <infiniband/arch.h>
 
 static int verbose;
